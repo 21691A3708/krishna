@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/krishna/static/css/main.b6137216.css",
-    "main.js": "/krishna/static/js/main.9f3b0ecc.js",
+    "main.js": "/krishna/static/js/main.d1af00e4.js",
     "static/js/453.3beed25e.chunk.js": "/krishna/static/js/453.3beed25e.chunk.js",
     "static/media/Business Analytics & Text Mining Modeling using Python_page-0001.jpg": "/krishna/static/media/Business Analytics & Text Mining Modeling using Python_page-0001.b3032ecb1132e1ee39aa.jpg",
     "static/media/Privacy and Security in Online Social Media_pages-to-jpg-0001.jpg": "/krishna/static/media/Privacy and Security in Online Social Media_pages-to-jpg-0001.5c1a8917895e46dbc77c.jpg",
@@ -17,11 +17,11 @@
     "static/media/krishna.avif": "/krishna/static/media/krishna.6bb3b66f5671cec2f2c5.avif",
     "index.html": "/krishna/index.html",
     "main.b6137216.css.map": "/krishna/static/css/main.b6137216.css.map",
-    "main.9f3b0ecc.js.map": "/krishna/static/js/main.9f3b0ecc.js.map",
+    "main.d1af00e4.js.map": "/krishna/static/js/main.d1af00e4.js.map",
     "453.3beed25e.chunk.js.map": "/krishna/static/js/453.3beed25e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6137216.css",
-    "static/js/main.9f3b0ecc.js"
+    "static/js/main.d1af00e4.js"
   ]
 }
