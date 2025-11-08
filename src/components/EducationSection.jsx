@@ -28,7 +28,7 @@ const EducationSection = () => {
       degree: "High School (SSC)",
       institution:
         "Vijaya Bharathi English Medium High School, Madanapalle, Andhara Pradesh",
-      period: "June 2018 - March 2019",
+      period: "June 2018 - May 2019",
       result: "GPA: 9.3 / 10",
       icon: Vijaya,
       color: "#2E7D32",
