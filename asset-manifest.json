@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/krishna/static/css/main.b6137216.css",
-    "main.js": "/krishna/static/js/main.d1af00e4.js",
+    "main.js": "/krishna/static/js/main.2974a9b3.js",
     "static/js/453.3beed25e.chunk.js": "/krishna/static/js/453.3beed25e.chunk.js",
     "static/media/Business Analytics & Text Mining Modeling using Python_page-0001.jpg": "/krishna/static/media/Business Analytics & Text Mining Modeling using Python_page-0001.b3032ecb1132e1ee39aa.jpg",
     "static/media/Privacy and Security in Online Social Media_pages-to-jpg-0001.jpg": "/krishna/static/media/Privacy and Security in Online Social Media_pages-to-jpg-0001.5c1a8917895e46dbc77c.jpg",
     "static/media/Cybersecurity_Essentials_certificate_chinnikrishna2004krishnak-gmail-com_0c7b5170-24e5-419b-801b-f886e7941fea_page-0001.jpg": "/krishna/static/media/Cybersecurity_Essentials_certificate_chinnikrishna2004krishnak-gmail-com_0c7b5170-24e5-419b-801b-f886e7941fea_page-0001.50fabc0c206fdc60985b.jpg",
     "static/media/image.png": "/krishna/static/media/image.fc4984778d407731c10f.png",
     "static/media/intenlogo.png": "/krishna/static/media/intenlogo.8ed09bf7d93b8b6cb70c.png",
-    "static/media/Chinni_Krishna_Resume.pdf": "/krishna/static/media/Chinni_Krishna_Resume.91aaae2d564e831f8149.pdf",
+    "static/media/Chinni_Krishna_Resume.pdf": "/krishna/static/media/Chinni_Krishna_Resume.db11f23c2a971d03d7f5.pdf",
     "static/media/Erp 2.webp": "/krishna/static/media/Erp 2.cfdcf8cfb23165922ce5.webp",
     "static/media/VcreatecIntenship.jpg": "/krishna/static/media/VcreatecIntenship.eb3035d3125e098fa887.jpg",
     "static/media/image_20142.jpg": "/krishna/static/media/image_20142.e792df5e85d1309dc388.jpg",
@@ -17,11 +17,11 @@
     "static/media/krishna.avif": "/krishna/static/media/krishna.6bb3b66f5671cec2f2c5.avif",
     "index.html": "/krishna/index.html",
     "main.b6137216.css.map": "/krishna/static/css/main.b6137216.css.map",
-    "main.d1af00e4.js.map": "/krishna/static/js/main.d1af00e4.js.map",
+    "main.2974a9b3.js.map": "/krishna/static/js/main.2974a9b3.js.map",
     "453.3beed25e.chunk.js.map": "/krishna/static/js/453.3beed25e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6137216.css",
-    "static/js/main.d1af00e4.js"
+    "static/js/main.2974a9b3.js"
   ]
 }
